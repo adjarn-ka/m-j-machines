@@ -1,38 +1,38 @@
 const images = [
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1586528116022-4f1d0b2fcd81?q=80&w=800&auto=format&fit=crop",
     alt: "Forklift training at M&J Machines Training Centre Bellville",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1586528116022-4f1d0b2fcd81?q=80&w=800&auto=format&fit=crop",
     alt: "Reach truck training Cape Town",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092163292-8ff997b86bff?q=80&w=800&auto=format&fit=crop",
     alt: "Excavator operation training",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=800&auto=format&fit=crop",
     alt: "TLB operation training Bellville",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=800&auto=format&fit=crop",
     alt: "Front-end loader operation training",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092163292-8ff997b86bff?q=80&w=800&auto=format&fit=crop",
     alt: "Roller operation training Cape Town",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092163292-8ff997b86bff?q=80&w=800&auto=format&fit=crop",
     alt: "Grader operation training",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581093160562-40460bfb1c1c?q=80&w=800&auto=format&fit=crop",
     alt: "Dump truck operation training",
   },
   {
-    src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1581092458905-8a145ed1601e?q=80&w=800&auto=format&fit=crop",
     alt: "Crane training at M&J Machines",
   },
 ];
